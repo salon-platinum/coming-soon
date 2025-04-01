@@ -8796,10 +8796,6 @@ figcaption {
     min-height: 42px;
   }
 
-  .logo-wrapper._130px {
-    margin-left: 64px;
-  }
-
   .section {
     padding-top: var(--components--sections--paddings--pd-medium);
     padding-bottom: var(--components--sections--paddings--pd-medium);
